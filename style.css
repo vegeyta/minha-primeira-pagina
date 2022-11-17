@@ -1,7 +1,7 @@
 body{
-    background-color: blue
+    background-color: rgba(0, 0, 255, 0.13)
 }
 h1{
     text-align: center;
-    color: brown;
+    color: rgb(17, 1, 1);
 }
